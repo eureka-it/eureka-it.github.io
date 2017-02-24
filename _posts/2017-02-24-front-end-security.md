@@ -1,9 +1,9 @@
 ---
 layout: post
 section-type: post
-title: Welkom bij Eureka-IT!
+title: Front end security...
 category: security
 tags: [ 'blog' ]
 ---
 
-# Front end security, whats all the fuzz about?!
+#whats all the fuzz about?!
