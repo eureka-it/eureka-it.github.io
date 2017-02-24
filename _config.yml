@@ -55,10 +55,10 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Echte kaffie moeje ipzetten"
+  - text: "Ne keer wandelen in de wind... dat doet deugt"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/laptop.svg"
 
 ##############################
 # Color the browser elements #
