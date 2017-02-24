@@ -16,7 +16,7 @@ baseurl:
 
 # Google tracking id
 
-google-tracking-id: ""
+google-tracking-id: "UA-92523570-1"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -31,7 +31,7 @@ force-https: False
 lang: "nl"
 author: "Malfait Jens"
 title: "Eureka-IT"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
+description: ""
 keywords: "eureka-it eureka software programma's computer jens malfait"
 favicon: "/img/favicon.ico"
 
