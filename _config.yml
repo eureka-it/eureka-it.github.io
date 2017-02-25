@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "eureka-it.be" 
 
 twitter_username:
-github_username: euraka-it
+github_username: eureka-it
 
 # Build settings
 markdown: kramdown
