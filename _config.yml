@@ -1,12 +1,12 @@
 # Site settings
-title: eureka-it
-email: eureka.it.belgium@gmail.com
+title: "eureka-it"
+email: "eureka.it.belgium@gmail.com"
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" eureka-it.be
+url: "eureka-it.be" 
 
 twitter_username:
-github_username:euraka-it
+github_username: euraka-it
 
 # Build settings
 markdown: kramdown
